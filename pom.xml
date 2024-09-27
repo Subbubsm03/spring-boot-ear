@@ -6,7 +6,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>spring-boot-ear-skinny-war</artifactId>
-    <packaging>pom</packaging>
+    <packaging>ear</packaging>
     <version>1.0</version>
 
     <properties>
